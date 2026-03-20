@@ -1,61 +1,79 @@
-﻿Sticky Frog Privacy Policy
-Last updated: 18 March 2026
+Sticky Frog Privacy Policy
+Last updated: 20 March 2026
 
-Thank you for playing Sticky Frog. This Privacy Policy explains what data may be processed when you use the game.
+Thank you for playing Sticky Frog. This policy explains what data is processed, for what purpose, and what options you have.
 
 1. Controller
 Sticky Frog
 Contact: wcgames.turf741@passmail.net
 
-2. Data the app may process
-Sticky Frog may process the following data, directly and/or via Google Play Games Services and Google AdMob:
+2. Scope
+This policy applies to the Android game Sticky Frog.
 
-- Google Play Games account identifiers and profile name (gamertag).
-- Game progress and save data (for example: records, coins, unlocks and customisations).
-- Device or advertising identifiers (Advertising ID / AD_ID).
-- In-app usage and interaction data needed for ads and measurement.
-- Approximate location inferred (for example by network/IP), not precise GPS location.
-- Basic technical device/service data required for app functionality and security.
+3. Data we may process
+A) Game data (local and gameplay)
+- Progress, records, coins, unlocks, selected skins and settings.
+- Technical gameplay events (for example: run start/end, distance checkpoints, death context, revive usage, button taps).
 
-3. Purposes
-We use this data to:
+B) Google Play Games data (if you sign in)
+- Google Play Games player identifier and profile name.
+- Leaderboard submissions and cloud save related metadata.
 
-- Enable Google Play Games online features (sign-in and leaderboard).
-- Save and synchronise game progress in the cloud (cloud save).
-- Show ads (interstitial and rewarded) with Google AdMob.
-- Measure ad performance and aggregated usage analytics.
-- Fraud prevention, security and compliance.
-- Maintain app stability, security and operation.
+C) Advertising and monetisation data (Google AdMob)
+- Advertising ID / AD_ID and device identifiers used by Google advertising SDKs.
+- Ad request, load, impression and interaction signals.
+- Approximate location inferred by network/IP (not precise GPS from this app).
 
-4. Third-party services
-Sticky Frog integrates:
+D) Analytics telemetry (Firebase Measurement Protocol)
+- Pseudonymous app telemetry events needed to understand game performance and usage trends.
+- Example fields may include: event name, timestamp, app version, session/run identifiers, gameplay metrics and ad flow metrics.
 
+4. Purposes
+We process data to:
+- Provide core game features and local progress.
+- Enable Google Play Games features (sign-in, leaderboard, cloud save).
+- Show ads (interstitial and rewarded) and measure ad performance.
+- Monitor stability, diagnose issues, improve balance and gameplay decisions.
+- Prevent abuse, fraud and policy violations.
+
+5. Consent and privacy choices (EEA, UK, Switzerland)
+If required by law, we request consent through Google UMP (User Messaging Platform).
+You can open privacy options again from the in-game Privacy button.
+
+Important behaviour in this app:
+- If consent is granted or not required, ads and analytics telemetry can operate normally.
+- If consent is not granted, app analytics telemetry to Firebase is not sent.
+- If consent is not granted, ads may still be shown as non-personalised/limited ads, depending on Google settings and availability.
+
+6. Third-party services
+Sticky Frog uses Google services:
 - Google Play Games Services
 - Google AdMob
+- Google Analytics for Firebase (via Firebase Measurement Protocol endpoint)
 
-Google data processing is governed by Google's own policies:
+Google policies apply to Google-side processing:
 - Google Privacy Policy: https://policies.google.com/privacy
 - Google Play Games Services Terms: https://developer.android.com/games/pgs/terms
-- AdMob Policies: https://support.google.com/admob/answer/6128543
+- AdMob Policy: https://support.google.com/admob/answer/6128543
 
-5. Storage and retention
-- Some game data is stored locally on your device.
-- If you use cloud features, progress and related metadata may be stored in Google Play Games.
-- Ad-related data may be processed by Google AdMob according to its own policies and retention periods.
-- We keep our own data only for as long as needed to provide the service, resolve issues and comply with legal obligations.
-
-6. Data sharing
+7. Data sharing
 We do not sell personal data.
-Data required for Play Games features and ad monetisation may be shared with Google as a service provider.
+Data needed to provide Google Play Games and ad monetisation features may be shared with Google as service provider.
 
-7. Children
-Sticky Frog is not specifically directed to children under 13. If you are a parent/guardian and believe a child's data has been processed improperly, contact us.
+8. Storage and retention
+- Local game data is stored on your device and remains until you delete app data or uninstall.
+- Local telemetry logs are limited with automatic rotation to avoid unbounded growth.
+- Google Play Games, AdMob and Firebase related data may be retained according to Google policies.
+- Support requests sent by email may be retained for as long as needed to resolve your request and legal obligations.
 
-8. Rights, revocation and deletion
-You can request information or data deletion by contacting:
+9. Your rights and deletion requests
+You can request access, correction or deletion by contacting:
 wcgames.turf741@passmail.net
 
-If you use Google Play Games, you can also manage or delete related data from your Google account tools and policies.
+If your request involves Google Play Games, AdMob or Google account data, you may also need to use Google account controls and tools.
 
-9. Changes to this policy
-We may update this Privacy Policy to reflect legal or feature changes. The current version will be published here.
+10. Children
+Sticky Frog is not specifically directed to children under 13.
+
+11. Changes to this policy
+We may update this policy to reflect legal, technical or product changes. The latest version will be published at this URL.

@@ -1,61 +1,79 @@
-﻿Politica de Privacidad de Sticky Frog
-Ultima actualizacion: 18 de marzo de 2026
+Politica de Privacidad de Sticky Frog
+Ultima actualizacion: 20 de marzo de 2026
 
-Gracias por jugar a Sticky Frog. Esta Politica de Privacidad explica que datos se tratan cuando usas el juego.
+Gracias por jugar a Sticky Frog. Esta politica explica que datos se tratan, para que se usan y que opciones tienes.
 
 1. Responsable
 Sticky Frog
 Contacto: wcgames.turf741@passmail.net
 
-2. Datos que puede tratar la app
-Sticky Frog puede tratar los siguientes datos, directamente y/o a traves de Google Play Games Services y Google AdMob:
+2. Alcance
+Esta politica aplica al juego Sticky Frog para Android.
 
-- Identificadores de cuenta de Google Play Games y nombre de perfil (gamertag).
-- Progreso del juego y datos de partida (por ejemplo: records, monedas, desbloqueos y personalizaciones).
-- Identificadores de dispositivo o de publicidad (Advertising ID / AD_ID).
-- Datos de uso e interaccion en la app necesarios para anuncios y medicion.
-- Ubicacion aproximada inferida (por ejemplo por red/IP), no GPS preciso.
-- Datos tecnicos basicos del dispositivo y del servicio necesarios para funcionamiento y seguridad.
+3. Datos que podemos tratar
+A) Datos del juego (locales y de jugabilidad)
+- Progreso, records, monedas, desbloqueos, skins seleccionadas y ajustes.
+- Eventos tecnicos de jugabilidad (por ejemplo: inicio/fin de partida, checkpoints de distancia, contexto de muerte, uso de revivir, pulsaciones de botones).
 
-3. Finalidades del tratamiento
-Usamos estos datos para:
+B) Datos de Google Play Games (si inicias sesion)
+- Identificador de jugador de Google Play Games y nombre de perfil.
+- Envio de puntuaciones a ranking y metadatos relacionados con guardado en la nube.
 
-- Permitir funciones online de Google Play Games (inicio de sesion y leaderboard).
-- Guardar y sincronizar progreso en la nube (cloud save).
-- Mostrar anuncios (interstitial y rewarded) con Google AdMob.
-- Medir rendimiento de anuncios y uso agregado (analitica).
-- Prevencion de fraude, seguridad y cumplimiento.
-- Mantener la estabilidad, seguridad y funcionamiento de la app.
+C) Datos de publicidad y monetizacion (Google AdMob)
+- Advertising ID / AD_ID e identificadores de dispositivo usados por SDKs de publicidad de Google.
+- Senales de solicitud, carga, impresion e interaccion con anuncios.
+- Ubicacion aproximada inferida por red/IP (la app no usa GPS preciso).
 
-4. Servicios de terceros
-Sticky Frog integra:
+D) Telemetria analitica (Firebase Measurement Protocol)
+- Eventos seudonimos de la app para entender rendimiento del juego y tendencias de uso.
+- Campos de ejemplo: nombre de evento, marca temporal, version de app, identificadores de sesion/partida, metricas de jugabilidad y flujo de anuncios.
 
+4. Finalidades
+Tratamos datos para:
+- Proporcionar funciones base del juego y progreso local.
+- Habilitar funciones de Google Play Games (login, ranking, guardado en la nube).
+- Mostrar anuncios (interstitial y rewarded) y medir su rendimiento.
+- Supervisar estabilidad, diagnosticar incidencias y mejorar balance y decisiones de diseno.
+- Prevenir abuso, fraude e incumplimientos de politica.
+
+5. Consentimiento y opciones de privacidad (EEE, Reino Unido y Suiza)
+Cuando la ley lo exige, solicitamos consentimiento mediante Google UMP (User Messaging Platform).
+Puedes volver a abrir las opciones de privacidad desde el boton Privacidad dentro del juego.
+
+Comportamiento importante en esta app:
+- Si el consentimiento esta otorgado o no es necesario, anuncios y telemetria analitica pueden funcionar con normalidad.
+- Si el consentimiento no esta otorgado, no se envia telemetria analitica de la app a Firebase.
+- Si el consentimiento no esta otorgado, aun pueden mostrarse anuncios no personalizados o limitados, segun configuracion y disponibilidad de Google.
+
+6. Servicios de terceros
+Sticky Frog usa servicios de Google:
 - Google Play Games Services
 - Google AdMob
+- Google Analytics for Firebase (via endpoint de Firebase Measurement Protocol)
 
-El tratamiento por parte de Google se rige por sus propias politicas:
+El tratamiento de Google se rige por sus propias politicas:
 - Politica de Privacidad de Google: https://policies.google.com/privacy
 - Terminos de Google Play Games Services: https://developer.android.com/games/pgs/terms
-- Politicas de AdMob: https://support.google.com/admob/answer/6128543
+- Politica de AdMob: https://support.google.com/admob/answer/6128543
 
-5. Almacenamiento y conservacion
-- Parte de los datos de juego se almacenan localmente en el dispositivo.
-- Si usas funciones en la nube, progreso y metadatos asociados pueden almacenarse en Google Play Games.
-- Los datos relacionados con anuncios pueden ser tratados por Google AdMob segun sus politicas y plazos de conservacion.
-- Conservamos datos propios solo durante el tiempo necesario para prestar el servicio, resolver incidencias y cumplir obligaciones legales.
-
-6. Comparticion de datos
+7. Comparticion de datos
 No vendemos datos personales.
-Los datos necesarios para Play Games y monetizacion publicitaria pueden compartirse con Google como proveedor de servicio.
+Los datos necesarios para ofrecer funciones de Google Play Games y monetizacion por anuncios pueden compartirse con Google como proveedor de servicio.
 
-7. Menores de edad
-Sticky Frog no esta dirigido especificamente a menores de 13 anos. Si eres madre/padre/tutor y crees que se han tratado datos de un menor de forma indebida, contacta con nosotros.
+8. Almacenamiento y conservacion
+- Los datos locales del juego se guardan en tu dispositivo hasta que borres datos de la app o la desinstales.
+- Los logs locales de telemetria tienen limite con rotacion automatica para evitar crecimiento sin control.
+- Los datos de Google Play Games, AdMob y Firebase pueden conservarse segun las politicas de Google.
+- Las solicitudes de soporte por email pueden conservarse el tiempo necesario para resolver tu solicitud y cumplir obligaciones legales.
 
-8. Derechos, revocacion y eliminacion de datos
-Puedes solicitar informacion o eliminacion de datos escribiendo a:
+9. Tus derechos y solicitudes de eliminacion
+Puedes solicitar acceso, correccion o eliminacion escribiendo a:
 wcgames.turf741@passmail.net
 
-Si usas Google Play Games, tambien puedes gestionar o eliminar datos asociados desde tu cuenta de Google segun sus herramientas y politicas.
+Si tu solicitud afecta a datos en Google Play Games, AdMob o cuenta Google, tambien puede ser necesario usar las herramientas de control de cuenta de Google.
 
-9. Cambios en esta politica
-Podemos actualizar esta Politica de Privacidad para reflejar cambios legales o funcionales. Publicaremos aqui la version vigente.
+10. Menores
+Sticky Frog no esta dirigido especificamente a menores de 13 anos.
+
+11. Cambios en esta politica
+Podemos actualizar esta politica para reflejar cambios legales, tecnicos o de producto. La version vigente se publicara en esta URL.
