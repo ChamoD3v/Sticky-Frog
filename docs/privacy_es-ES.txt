@@ -5,7 +5,7 @@ Gracias por jugar a Sticky Frog. Esta politica explica que datos se tratan, para
 
 1. Responsable
 Sticky Frog
-Contacto: wcgames.turf741@passmail.net
+Contacto de privacidad: wcg.privacy@gmail.com
 
 2. Alcance
 Esta politica aplica al juego Sticky Frog para Android.
@@ -67,8 +67,16 @@ Los datos necesarios para ofrecer funciones de Google Play Games y monetizacion 
 - Las solicitudes de soporte por email pueden conservarse el tiempo necesario para resolver tu solicitud y cumplir obligaciones legales.
 
 9. Tus derechos y solicitudes de eliminacion
-Puedes solicitar acceso, correccion o eliminacion escribiendo a:
-wcgames.turf741@passmail.net
+Canal principal (portal de solicitudes):
+https://script.google.com/macros/s/AKfycbzfRV30N9koBFfVoa34vbsSS53J0UFRbQ1_WTPBfxluC3bUmAsW9ijwLKGWCXa8okWx2w/exec
+
+Canal alternativo (email de respaldo):
+wcg.privacy@gmail.com
+
+Importante sobre identificacion:
+- La telemetria analitica propia se almacena de forma seudonima y, por defecto, no se vincula directamente a una identidad real.
+- Si no podemos identificarte razonablemente con los datos aportados, podemos no estar en condiciones de entregar o borrar registros individuales concretos.
+- En esos casos te informaremos y, cuando aplique, te redirigiremos a las herramientas de Google para gestionar datos de Play Games, cuenta Google y preferencias de anuncios.
 
 Si tu solicitud afecta a datos en Google Play Games, AdMob o cuenta Google, tambien puede ser necesario usar las herramientas de control de cuenta de Google.
 
